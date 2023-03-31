@@ -1,1 +1,1 @@
-# PRaktikum Dasar Pemrograman 2023
+# Praktikum Dasar Pemrograman 2023
